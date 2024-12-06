@@ -1,4 +1,4 @@
-1.simple queries
+1.Simple queries
 
 CREATE TABLE movies (id INTEGER PRIMARY KEY, name TEXT, release_year INTEGER);
 INSERT INTO movies VALUES (1, "Avatar", 2009);
